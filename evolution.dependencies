@@ -2,27 +2,27 @@
   {
     "repository": "device_realme_RMX2061",
     "target_path": "device/realme/RMX2061",
-    "branch": "bka"
+    "branch": "cnb"
   },
   {
     "repository": "vendor_realme_RMX2061",
     "target_path": "vendor/realme/RMX2061",
-    "branch": "bka"
+    "branch": "cnb"
   },
   {
     "repository": "kernel_realme_sm7125",
     "target_path": "kernel/realme/sm7125",
-    "branch": "bka"
+    "branch": "cnb"
   },
   {
     "repository": "device_realme_sm7125-common",
     "target_path": "device/realme/sm7125-common",
-    "branch": "bka"
+    "branch": "cnb"
   },
   {
     "repository": "vendor_realme_sm7125-common",
     "target_path": "vendor/realme/sm7125-common",
-    "branch": "bka"
+    "branch": "cnb"
   },
    {
     "repository": "hardware_dolby",
