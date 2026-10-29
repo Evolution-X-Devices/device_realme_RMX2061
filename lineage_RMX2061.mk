@@ -20,6 +20,9 @@ TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_USES_MINI_GAPPS := true 
 
 # Inherit some common lineage stuff
+ifeq ($(TARGET_INCLUDE_OPLUS_CAMERA),true)
+PRODUCT_NO_CAMERA := true
+endif
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Device identifier

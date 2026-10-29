@@ -28,5 +28,11 @@
     "repository": "hardware_dolby",
     "target_path": "hardware/dolby",
     "branch": "cnb-aospa"
+  },
+  {
+    "repository": "imshah-id/oplus_cam",
+    "target_path": "vendor/oplus/camera",
+    "remote": "gitlab",
+    "branch": "6pro"
   }
 ]
