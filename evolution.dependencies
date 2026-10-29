@@ -27,7 +27,7 @@
    {
     "repository": "hardware_dolby",
     "target_path": "hardware/dolby",
-    "branch": "cnb-aospa"
+    "branch": "cnb"
   },
   {
     "repository": "imshah-id/oplus_cam",
